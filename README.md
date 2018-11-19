@@ -2,7 +2,7 @@
 
 <p align="center"> A weather SDK.</p>
 
-
+[![Build Status](https://travis-ci.org/Shijf/weather.svg?branch=master)](https://travis-ci.org/Shijf/weather)
 ## Installing
 
 ```shell
